@@ -1,0 +1,36 @@
+C:\Development\CbaTestSeanPhung\MoviesWebApi\Movies.Data\bin\Debug\Movies.Data.dll
+C:\Development\CbaTestSeanPhung\MoviesWebApi\Movies.Data\bin\Debug\Movies.Data.pdb
+C:\Development\CbaTestSeanPhung\MoviesWebApi\Movies.Data\bin\Debug\Movies.Entities.dll
+C:\Development\CbaTestSeanPhung\MoviesWebApi\Movies.Data\bin\Debug\Movies.Utility.dll
+C:\Development\CbaTestSeanPhung\MoviesWebApi\Movies.Data\bin\Debug\MoviesLibrary.dll
+C:\Development\CbaTestSeanPhung\MoviesWebApi\Movies.Data\bin\Debug\Movies.Entities.pdb
+C:\Development\CbaTestSeanPhung\MoviesWebApi\Movies.Data\bin\Debug\Movies.Utility.pdb
+C:\Development\CbaTestSeanPhung\MoviesWebApi\Movies.Data\obj\Debug\Movies.Data.csprojResolveAssemblyReference.cache
+C:\Development\CbaTestSeanPhung\MoviesWebApi\Movies.Data\obj\Debug\Movies.Data.dll
+C:\Development\CbaTestSeanPhung\MoviesWebApi\Movies.Data\obj\Debug\Movies.Data.pdb
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Data\bin\Debug\Movies.Data.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Data\bin\Debug\Movies.Data.pdb
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Data\bin\Debug\log4net.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Data\bin\Debug\Movies.Entities.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Data\bin\Debug\Movies.Utility.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Data\bin\Debug\MoviesLibrary.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Data\bin\Debug\Movies.Entities.pdb
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Data\bin\Debug\Movies.Utility.pdb
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Data\bin\Debug\log4net.xml
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Data\obj\Debug\Movies.Data.csprojResolveAssemblyReference.cache
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Data\obj\Debug\Movies.Data.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Data\obj\Debug\Movies.Data.pdb
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.Data\bin\Debug\Movies.Data.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.Data\bin\Debug\Movies.Data.pdb
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.Data\bin\Debug\AutoMapper.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.Data\bin\Debug\log4net.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.Data\bin\Debug\Movies.Entities.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.Data\bin\Debug\Movies.Utility.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.Data\bin\Debug\MoviesLibrary.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.Data\bin\Debug\Movies.Entities.pdb
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.Data\bin\Debug\Movies.Utility.pdb
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.Data\bin\Debug\AutoMapper.xml
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.Data\bin\Debug\log4net.xml
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.Data\obj\Debug\Movies.Data.csprojResolveAssemblyReference.cache
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.Data\obj\Debug\Movies.Data.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.Data\obj\Debug\Movies.Data.pdb

@@ -1,0 +1,33 @@
+DEBUG 2015-09-30 23:39:02.502 [14] Enter MoviesService.Create()
+DEBUG 2015-09-30 23:39:02.545 [14] Enter MoviesService.Get() with movieId: 81
+DEBUG 2015-09-30 23:39:02.697 [14] Enter MoviesService.Create()
+ERROR 2015-09-30 23:39:02.698 [14] System.Exception: Movie Title is mandatory
+   at MoviesLibrary.MovieDataSource.Create(MovieData movie)
+   at Movies.Data.MoviesRepo.MoviesRepository.Insert(Movie movie) in c:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Data\MoviesRepo\MoviesRepository.cs:line 65
+   at Movies.Core.Movies.MoviesService.Create(Movie movie) in c:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Core\Movies\MoviesService.cs:line 128
+DEBUG 2015-09-30 23:39:04.717 [14] Enter MoviesService.GetPagedList() with filter : MovieFilter parameters: PageSize=20 CurrentPageNumber=0 SortBy= SortOrder=Descending SearchText= IsCaseSensitive=False
+DEBUG 2015-09-30 23:39:06.750 [14] Enter MoviesService.Get() with movieId: 1
+DEBUG 2015-09-30 23:39:06.856 [14] Enter MoviesService.GetPagedList() with filter : MovieFilter parameters: PageSize=20 CurrentPageNumber=0 SortBy= SortOrder=Descending SearchText=Thriller IsCaseSensitive=False
+ERROR 2015-09-30 23:39:08.863 [14] System.ArgumentNullException: Value cannot be null.
+Parameter name: thisString
+   at Movies.Utility.ExtensionMethods.StringExtensions.Contains(String thisString, String thatString, Boolean isCaseSensitive) in c:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Utility\ExtensionMethods\StringExtensions.cs:line 24
+   at Movies.Core.Movies.MoviesService.<>c__DisplayClass8.<SearchByProperty>b__7(Movie item) in c:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Core\Movies\MoviesService.cs:line 195
+   at System.Linq.Enumerable.WhereListIterator`1.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Movies.Core.Movies.MoviesService.GetPagedList(MovieFilter filter) in c:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Core\Movies\MoviesService.cs:line 70
+DEBUG 2015-09-30 23:39:08.920 [14] Enter MoviesService.GetPagedList() with filter : MovieFilter parameters: PageSize=20 CurrentPageNumber=0 SortBy= SortOrder=Descending SearchText=abc IsCaseSensitive=False
+ERROR 2015-09-30 23:39:10.923 [14] Movies.Core.Movies.MoviesServiceException: FakeProperty property does not exist.
+   at Movies.Core.Movies.MoviesService.SearchByProperty(IEnumerable`1 movies, String propertyName, String searchTerm, Boolean isCaseSensitive) in c:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Core\Movies\MoviesService.cs:line 182
+   at Movies.Core.Movies.MoviesService.GetPagedList(MovieFilter filter) in c:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Core\Movies\MoviesService.cs:line 70
+DEBUG 2015-09-30 23:39:10.930 [14] Enter MoviesService.GetPagedList() with filter : MovieFilter parameters: PageSize=20 CurrentPageNumber=0 SortBy=MovieId SortOrder=Descending SearchText= IsCaseSensitive=False
+DEBUG 2015-09-30 23:39:12.945 [14] Enter MoviesService.Update()
+ERROR 2015-09-30 23:39:12.948 [14] System.Exception: The movie ID 99999999 does not exist
+   at MoviesLibrary.MovieDataSource.Update(MovieData movie)
+   at Movies.Data.MoviesRepo.MoviesRepository.Update(Movie movie) in c:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Data\MoviesRepo\MoviesRepository.cs:line 81
+   at Movies.Core.Movies.MoviesService.Update(Movie movie) in c:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Core\Movies\MoviesService.cs:line 146
+DEBUG 2015-09-30 23:39:45.214 [10] Enter MoviesService.GetPagedList() with filter : MovieFilter parameters: PageSize=20 CurrentPageNumber=0 SortBy=MovieId SortOrder=Descending SearchText= IsCaseSensitive=False
+DEBUG 2015-09-30 23:40:28.047 [14] Enter MoviesService.GetPagedList() with filter : MovieFilter parameters: PageSize=20 CurrentPageNumber=0 SortBy= SortOrder=Descending SearchText=Thriller IsCaseSensitive=False
+DEBUG 2015-09-30 23:42:26.333 [11] Enter MoviesService.GetPagedList() with filter : MovieFilter parameters: PageSize=20 CurrentPageNumber=0 SortBy= SortOrder=Descending SearchText=ill IsCaseSensitive=False
+DEBUG 2015-09-30 23:43:42.220 [12] Enter MoviesService.GetPagedList() with filter : MovieFilter parameters: PageSize=20 CurrentPageNumber=0 SortBy= SortOrder=Descending SearchText=ill IsCaseSensitive=False
+DEBUG 2015-09-30 23:45:16.147 [14] Enter MoviesService.GetPagedList() with filter : MovieFilter parameters: PageSize=20 CurrentPageNumber=0 SortBy= SortOrder=Descending SearchText=ill IsCaseSensitive=False

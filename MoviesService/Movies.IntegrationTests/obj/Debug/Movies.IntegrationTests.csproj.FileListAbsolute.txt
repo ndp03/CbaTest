@@ -1,0 +1,172 @@
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\MoviesWebApiTest.dll.config
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\MoviesWebApiTest.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\MoviesWebApiTest.pdb
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\Autofac.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\Autofac.Integration.Mvc.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\Autofac.Integration.WebApi.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\Movies.Data.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\Movies.Entities.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\Movies.Utility.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\MoviesLibrary.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\System.Web.Helpers.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\System.Web.Http.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\System.Web.Razor.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\System.Web.WebPages.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\log4net.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\Movies.Data.pdb
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\Movies.Entities.pdb
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\Movies.Utility.pdb
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\Autofac.xml
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\Autofac.Integration.Mvc.xml
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\Autofac.Integration.WebApi.xml
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\System.Web.Helpers.xml
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\System.Web.Http.xml
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\System.Web.Razor.xml
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\System.Web.WebPages.xml
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\log4net.xml
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\obj\Debug\Movies.IntegrationTests.csprojResolveAssemblyReference.cache
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\obj\Debug\MoviesWebApiTest.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\obj\Debug\MoviesWebApiTest.pdb
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\Movies.Core.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\Movies.Core.pdb
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\MoviesWebApiTest.dll.config
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\MoviesWebApiTest.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\MoviesWebApiTest.pdb
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\Autofac.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\Autofac.Integration.Mvc.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\Autofac.Integration.WebApi.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\log4net.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\Moq.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\Movies.Core.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\Movies.Data.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\Movies.Entities.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\Movies.Utility.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\MoviesLibrary.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\System.Web.Helpers.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\System.Web.Http.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\System.Web.Mvc.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\System.Web.Razor.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\System.Web.WebPages.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\Movies.Core.pdb
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\Movies.Data.pdb
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\Movies.Entities.pdb
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\Movies.Utility.pdb
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\Autofac.xml
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\Autofac.Integration.Mvc.xml
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\Autofac.Integration.WebApi.xml
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\log4net.xml
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\Moq.xml
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\System.Web.Helpers.xml
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\System.Web.Http.xml
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\System.Web.Mvc.xml
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\System.Web.Razor.xml
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\System.Web.WebPages.xml
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\obj\Debug\Movies.IntegrationTests.csprojResolveAssemblyReference.cache
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\obj\Debug\MoviesWebApiTest.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\MoviesWebApiTest\obj\Debug\MoviesWebApiTest.pdb
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\MoviesWebApiTest.dll.config
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\MoviesWebApiTest.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\MoviesWebApiTest.pdb
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\Autofac.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\Autofac.Integration.Mvc.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\Autofac.Integration.WebApi.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\log4net.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\Moq.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\Movies.Core.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\Movies.Data.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\Movies.Entities.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\Movies.Utility.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\MoviesLibrary.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\System.Web.Http.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\System.Web.Razor.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\Movies.Core.pdb
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\Movies.Data.pdb
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\Movies.Entities.pdb
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\Movies.Utility.pdb
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\Autofac.xml
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\Autofac.Integration.Mvc.xml
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\Autofac.Integration.WebApi.xml
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\log4net.xml
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\Moq.xml
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\System.Web.Http.xml
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\System.Web.Razor.xml
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\obj\Debug\Movies.IntegrationTests.csprojResolveAssemblyReference.cache
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\obj\Debug\MoviesWebApiTest.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\obj\Debug\MoviesWebApiTest.pdb
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\MoviesWebApiTest.dll.config
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\MoviesWebApiTest.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\MoviesWebApiTest.pdb
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\Autofac.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\Autofac.Integration.Mvc.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\Autofac.Integration.WebApi.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\log4net.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\Moq.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\Movies.Core.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\Movies.Data.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\Movies.Entities.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\Movies.Utility.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\MoviesLibrary.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\System.Web.Helpers.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\System.Web.Http.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\System.Web.Razor.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\System.Web.WebPages.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\AutoMapper.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\Movies.Core.pdb
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\Movies.Data.pdb
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\Movies.Entities.pdb
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\Movies.Utility.pdb
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\Autofac.xml
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\Autofac.Integration.Mvc.xml
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\Autofac.Integration.WebApi.xml
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\log4net.xml
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\Moq.xml
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\System.Web.Helpers.xml
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\System.Web.Http.xml
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\System.Web.Razor.xml
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\System.Web.WebPages.xml
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\bin\Debug\AutoMapper.xml
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\obj\Debug\Movies.IntegrationTests.csprojResolveAssemblyReference.cache
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\obj\Debug\MoviesWebApiTest.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.IntegrationTests\obj\Debug\MoviesWebApiTest.pdb

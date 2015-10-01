@@ -1,0 +1,56 @@
+C:\Development\CbaTestSeanPhung\MoviesWebApi\MoviesCore\bin\Debug\MoviesCore.dll
+C:\Development\CbaTestSeanPhung\MoviesWebApi\MoviesCore\bin\Debug\MoviesCore.pdb
+C:\Development\CbaTestSeanPhung\MoviesWebApi\MoviesCore\bin\Debug\Movies.Data.dll
+C:\Development\CbaTestSeanPhung\MoviesWebApi\MoviesCore\bin\Debug\Movies.Entities.dll
+C:\Development\CbaTestSeanPhung\MoviesWebApi\MoviesCore\bin\Debug\Movies.Utility.dll
+C:\Development\CbaTestSeanPhung\MoviesWebApi\MoviesCore\bin\Debug\MoviesLibrary.dll
+C:\Development\CbaTestSeanPhung\MoviesWebApi\MoviesCore\bin\Debug\Movies.Data.pdb
+C:\Development\CbaTestSeanPhung\MoviesWebApi\MoviesCore\bin\Debug\Movies.Entities.pdb
+C:\Development\CbaTestSeanPhung\MoviesWebApi\MoviesCore\bin\Debug\Movies.Utility.pdb
+C:\Development\CbaTestSeanPhung\MoviesWebApi\MoviesCore\obj\Debug\Movies.Core.csprojResolveAssemblyReference.cache
+C:\Development\CbaTestSeanPhung\MoviesWebApi\MoviesCore\obj\Debug\MoviesCore.dll
+C:\Development\CbaTestSeanPhung\MoviesWebApi\MoviesCore\obj\Debug\MoviesCore.pdb
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesCore\obj\Debug\Movies.Core.csprojResolveAssemblyReference.cache
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesCore\bin\Debug\Movies.Data.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesCore\bin\Debug\Movies.Entities.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesCore\bin\Debug\Movies.Utility.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesCore\bin\Debug\MoviesLibrary.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesCore\bin\Debug\log4net.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesCore\bin\Debug\Movies.Data.pdb
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesCore\bin\Debug\Movies.Entities.pdb
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesCore\bin\Debug\Movies.Utility.pdb
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesCore\bin\Debug\log4net.xml
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesCore\bin\Debug\Movies.Core.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesCore\bin\Debug\Movies.Core.pdb
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesCore\obj\Debug\Movies.Core.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\MoviesCore\obj\Debug\Movies.Core.pdb
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Core\bin\Debug\Movies.Core.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Core\bin\Debug\Movies.Core.pdb
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Core\bin\Debug\log4net.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Core\bin\Debug\Movies.Data.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Core\bin\Debug\Movies.Entities.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Core\bin\Debug\Movies.Utility.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Core\bin\Debug\MoviesLibrary.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Core\bin\Debug\Movies.Data.pdb
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Core\bin\Debug\Movies.Entities.pdb
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Core\bin\Debug\Movies.Utility.pdb
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Core\bin\Debug\log4net.xml
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Core\obj\Debug\Movies.Core.csprojResolveAssemblyReference.cache
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Core\obj\Debug\Movies.Core.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Core\obj\Debug\Movies.Core.pdb
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.Core\bin\Debug\Movies.Core.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.Core\bin\Debug\Movies.Core.pdb
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.Core\bin\Debug\log4net.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.Core\bin\Debug\Movies.Data.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.Core\bin\Debug\Movies.Entities.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.Core\bin\Debug\Movies.Utility.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.Core\bin\Debug\MoviesLibrary.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.Core\bin\Debug\AutoMapper.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.Core\bin\Debug\Movies.Data.pdb
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.Core\bin\Debug\Movies.Entities.pdb
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.Core\bin\Debug\Movies.Utility.pdb
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.Core\bin\Debug\log4net.xml
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.Core\bin\Debug\AutoMapper.xml
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.Core\obj\Debug\Movies.Core.csprojResolveAssemblyReference.cache
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.Core\obj\Debug\Movies.Core.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.Core\obj\Debug\Movies.Core.pdb

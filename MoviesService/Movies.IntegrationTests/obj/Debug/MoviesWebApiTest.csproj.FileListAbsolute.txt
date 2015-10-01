@@ -1,0 +1,6 @@
+C:\Users\sean.phung\Desktop\Sean's Vault\CBA interview tests\Csharp Test\MoviesWebApi\MoviesWebApiTest\bin\Debug\MoviesWebApiTest.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CBA interview tests\Csharp Test\MoviesWebApi\MoviesWebApiTest\bin\Debug\MoviesWebApiTest.pdb
+C:\Users\sean.phung\Desktop\Sean's Vault\CBA interview tests\Csharp Test\MoviesWebApi\MoviesWebApiTest\bin\Debug\MoviesLibrary.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CBA interview tests\Csharp Test\MoviesWebApi\MoviesWebApiTest\obj\Debug\MoviesWebApiTest.csprojResolveAssemblyReference.cache
+C:\Users\sean.phung\Desktop\Sean's Vault\CBA interview tests\Csharp Test\MoviesWebApi\MoviesWebApiTest\obj\Debug\MoviesWebApiTest.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CBA interview tests\Csharp Test\MoviesWebApi\MoviesWebApiTest\obj\Debug\MoviesWebApiTest.pdb

@@ -1,0 +1,23 @@
+C:\Development\CbaTestSeanPhung\MoviesWebApi\Movies.Entities\bin\Debug\Movies.Entities.dll
+C:\Development\CbaTestSeanPhung\MoviesWebApi\Movies.Entities\bin\Debug\Movies.Entities.pdb
+C:\Development\CbaTestSeanPhung\MoviesWebApi\Movies.Entities\obj\Debug\Movies.Entities.csprojResolveAssemblyReference.cache
+C:\Development\CbaTestSeanPhung\MoviesWebApi\Movies.Entities\obj\Debug\Movies.Entities.dll
+C:\Development\CbaTestSeanPhung\MoviesWebApi\Movies.Entities\obj\Debug\Movies.Entities.pdb
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Entities\bin\Debug\Movies.Entities.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Entities\bin\Debug\Movies.Entities.pdb
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Entities\bin\Debug\log4net.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Entities\bin\Debug\Movies.Utility.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Entities\bin\Debug\Movies.Utility.pdb
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Entities\bin\Debug\log4net.xml
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Entities\obj\Debug\Movies.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Entities\obj\Debug\Movies.Entities.dll
+C:\Users\Nhan\Desktop\CbaTestSeanPhung\MoviesService\Movies.Entities\obj\Debug\Movies.Entities.pdb
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.Entities\bin\Debug\Movies.Entities.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.Entities\bin\Debug\Movies.Entities.pdb
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.Entities\bin\Debug\log4net.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.Entities\bin\Debug\Movies.Utility.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.Entities\bin\Debug\Movies.Utility.pdb
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.Entities\bin\Debug\log4net.xml
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.Entities\obj\Debug\Movies.Entities.csprojResolveAssemblyReference.cache
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.Entities\obj\Debug\Movies.Entities.dll
+C:\Users\sean.phung\Desktop\Sean's Vault\CbaTestSeanPhung\MoviesService\Movies.Entities\obj\Debug\Movies.Entities.pdb

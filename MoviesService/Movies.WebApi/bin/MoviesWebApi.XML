@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MoviesWebApi</name>
+    </assembly>
+    <members>
+        <member name="M:MoviesWebApi.Controllers.MoviesController.GetAll">
+            <summary>
+            Get all movies
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MoviesWebApi.Controllers.MoviesController.Search(System.String,System.String)">
+            <summary>
+            
+            Search movie by field or all fields
+            </summary>
+            <param name="searchBy">Leave this empty to search across all fields</param>
+            <param name="searchTerm">The term that we want to search for</param>
+            <returns></returns>
+        </member>
+        <member name="M:MoviesWebApi.Controllers.MoviesController.Get(System.Int32)">
+            <summary>
+            Get a movie by MovieId
+            </summary>
+            <param name="id">the MovieId</param>
+            <returns></returns>
+        </member>
+        <member name="M:MoviesWebApi.Controllers.MoviesController.Create(Movies.Entities.Movie)">
+            <summary>
+            Add a new movie
+            </summary>
+            <param name="movie">the new movie to be added</param>
+            <returns>The new MovieId</returns>
+        </member>
+        <member name="M:MoviesWebApi.Controllers.MoviesController.Update(Movies.Entities.Movie)">
+            <summary>
+            Updated an existing movie
+            </summary>
+            <param name="movie">the movie object to be modified</param>
+        </member>
+    </members>
+</doc>
